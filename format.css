@@ -1,0 +1,9 @@
+p{color:black;
+	font-family: courier new;
+	margin-left: 30px}
+hr{color:grey}
+
+a:link {color:black}
+b:visited {color:red}
+c:hover {color:purple}
+d:active {color: blue}

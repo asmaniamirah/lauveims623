@@ -1,0 +1,12 @@
+p{color:pink;
+   font-family:times new roman;
+   margin-left:30px}
+
+hr{color:yellow}
+
+body{background="bg.jpg"}
+
+a:link {color:black}
+a:visited {color:green}
+a:hover {color:blue}
+a:active {color:red}
